@@ -1,0 +1,10 @@
+Library
+Temp
+Logs
+Build
+obj
+.vs
+*.sln
+*.csproj
+AndroidBuild
+WindowsBuild
